@@ -159,3 +159,5 @@ if __name__ == "__main__":
     
     # ========== 9. 清理分布进程 ==========
     if dist.is_initialized(): dist.destroy_process_group()
+
+    # ========== 10. first add ==========
